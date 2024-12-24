@@ -5,11 +5,11 @@
 **Mata Kuliah:** OS SERVER dan SISTEM ADMIN 
 
 ## Daftar Isi
-1. [Instalasi OPEN SSH SERVER](#1-instalasi-open-ssh-server)
-2. [Instalasi MYSQL SERVER](#2-instalasi-mysql-server)
-3. [Instalasi APACHE2](#3-instalasi-apache2)
-4. [Instalasi DATABASE SERVER](#4-instalasi-database-server)
-5. [Instalasi FAIL2BAN](#5-instalasi-fail2ban)
+1. [Instalasi OPEN SSH SERVER](#1-instalasi-open-ssh-server) untuk koneksi
+2. [Instalasi MYSQL SERVER](#2-instalasi-mysql-server) sebagai database
+3. [Instalasi APACHE2](#3-instalasi-apache2) akses web server
+4. [Instalasi MARIADB](#4-instalasi-database-server) Sebagai penyimpanan database
+5. [Instalasi FAIL2BAN](#5-instalasi-fail2ban) sebagai sistem keamanan
 
 ![image](https://github.com/user-attachments/assets/2873bddc-aaee-40cf-aa63-e96a46bb679d)
 
