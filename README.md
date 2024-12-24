@@ -11,6 +11,9 @@
 4. [Instalasi DATABASE SERVER](#4-instalasi-database-server)
 5. [Instalasi FAIL2BAN](#5-instalasi-fail2ban)
 
+![image](https://github.com/user-attachments/assets/2873bddc-aaee-40cf-aa63-e96a46bb679d)
+
+
 ## 1.Instalasi OPEN SSH SERVER
 **Langkah 1:** Lakukan Instalasi Paket SSH Server
 ```bash
@@ -37,7 +40,8 @@ sudo systemctl status ssh
 Buka CMD pada windows,lakukan konfigurasi pada ubuntu dengan cara <ssh username ubuntu@ip address ubuntu server> contoh:ssh hilmiserver@192.168.1.3
 setelah itu ketik manual "yes" dan masukkan password ubuntu server
 ```
-![Screenshot 2024-12-01 162253](https://github.com/user-attachments/assets/6c07cc9e-b9a9-42cc-ac4d-c2944f85a11e)
+![image](https://github.com/user-attachments/assets/dd867258-65e7-48d5-a6e9-5bd56971774a)
+
 
 
 ## 2.Installasi MY-SQL SERVER
@@ -135,7 +139,8 @@ sudo systemctl start fail2ban
 ```bash
 sudo systecmtl status fail2ban
 ```
-![Screenshot 2024-12-15 205603](https://github.com/user-attachments/assets/b034640c-b2fe-45f3-a5aa-adf3cd050a50)
+![image](https://github.com/user-attachments/assets/7ef48b5e-44a6-4c2d-95da-879d6c121eea)
+
 
 
 ## Hasil instalasi
